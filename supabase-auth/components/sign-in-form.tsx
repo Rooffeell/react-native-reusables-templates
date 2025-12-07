@@ -49,7 +49,7 @@ export function SignInForm() {
     <View className="gap-6">
       <Card className="border-border/0 shadow-none sm:border-border sm:shadow-sm sm:shadow-black/5">
         <CardHeader>
-          <CardTitle className="text-center text-xl sm:text-left">Sign in to Kollekt Flow</CardTitle>
+          <CardTitle className="text-center text-xl sm:text-left">Sign in</CardTitle>
           <CardDescription className="text-center sm:text-left">
             Enter your email and password to log in
           </CardDescription>
